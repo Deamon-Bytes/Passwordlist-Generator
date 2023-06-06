@@ -3,6 +3,8 @@ Password List Generator
 
 Create Password list from pattern and personal info.
 
+For Windows you can use the setup.exe, when its ready with installing you should see a shortcut icon on your desktop.
+
 Sounds Good.
 
 ### Usage
